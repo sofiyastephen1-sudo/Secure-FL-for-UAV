@@ -29,7 +29,6 @@ Experiments correspond to GitHub release `v1.0`.
   * Membership inference attack
 * Scalable evaluation with 50–100 UAV clients
 
-
 ## Repository Structure
 
 Secure-FL-for-UAV/

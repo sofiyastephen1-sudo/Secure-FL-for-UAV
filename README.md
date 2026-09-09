@@ -214,7 +214,7 @@ If you use this repository, please cite:
 ```bibtex
 @article{resfluav2026,
   title={Resource-Constrained Secure Federated Learning Framework for Unmanned Aerial Vehicles},
-  author={Sophia, S, Getzi Jeba Leelipushpam, P., and T. Jemima Jebaseeli},
+  author={Sophia, S, Getzi Jeba Leelipushpam, P},
   journal={},
   year={2026}
 }
